@@ -8,7 +8,7 @@
 
 Вы решили развлечься и реализовать некое подобие игры, где гномы (или другие существа), выскакивают из "отверстий" и по ним нужно бить молотком:
 
-![](../src/img/GracefulMiniatureBustard-small.gif)
+![](./src/img/GracefulMiniatureBustard-small.gif)
 
 Copyright gfycat.com
 
@@ -22,7 +22,7 @@ Copyright gfycat.com
 
 Для картинки персонажа используйте следующую:
 
-![](../src/img/goblin.png)
+![](./src/img/goblin.png)
 
 Важно: не используйте `removeChild`! Проверьте, что будет, если `Node` изменить родителя.
 
