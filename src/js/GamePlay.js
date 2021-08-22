@@ -1,6 +1,6 @@
 export default class GamePlay {
   constructor() {
-    this.boardSize = 5/* prompt('Выберите размер игрового поля: ', 5) */;
+    this.boardSize = 5;
     this.container = null;
     this.cells = [];
     this.goblinPosition = null;
