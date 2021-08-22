@@ -1,4 +1,6 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/mad4ejujnm3wu8ka/branch/master?svg=true)](https://ci.appveyor.com/project/Sergius92739/ahj-2-1-dom/branch/master)
+[![Build status](https://ci.appveyor.com/api/projects/status/mad4ejujnm3wu8ka/branch/master?svg=true)](https://ci.appveyor.com/project/Sergius92739/ahj-2-1-dom/branch/master);
+
+### Deployment: https://sergius92739.github.io/ahj-2.1-dom/
 
 ### Перемещение элемента
 
