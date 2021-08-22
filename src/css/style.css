@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Rampart+One&display=swap');
+
+body {
+  background-color: rgb(212, 212, 202);
+  font-family: 'Rampart One', cursive;
+}
+
+#game-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.board {
+  display: grid;
+  gap: 0.2em;
+}
+.cell {
+  background-color: rgb(47, 158, 32);
+  border: 1px solid black;
+  border-radius: 5%;
+  cursor: pointer;
+}
+.goblin {
+  background-image: url('../img/goblin.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+}

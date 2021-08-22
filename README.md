@@ -1,10 +1,12 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/mad4ejujnm3wu8ka/branch/master?svg=true)](https://ci.appveyor.com/project/Sergius92739/ahj-2-1-dom/branch/master)
+
 ### Перемещение элемента
 
 #### Легенда
 
 Вы решили развлечься и реализовать некое подобие игры, где гномы (или другие существа), выскакивают из "отверстий" и по ним нужно бить молотком:
 
-![](./pic/GracefulMiniatureBustard-small.gif)
+![](../src/img/GracefulMiniatureBustard-small.gif)
 
 Copyright gfycat.com
 
@@ -18,7 +20,7 @@ Copyright gfycat.com
 
 Для картинки персонажа используйте следующую:
 
-![](./pic/goblin.png)
+![](../src/img/goblin.png)
 
 Важно: не используйте `removeChild`! Проверьте, что будет, если `Node` изменить родителя.
 
